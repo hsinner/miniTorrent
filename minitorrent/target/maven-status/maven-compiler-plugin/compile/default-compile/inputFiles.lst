@@ -1,3 +1,12 @@
-/mnt/c/Users/hsinr/class/CSSE432/MiniTorrent/csse432BitTorrent/minitorrent/src/main/java/com/minitorrent/TorrentMaker.java
-/mnt/c/Users/hsinr/class/CSSE432/MiniTorrent/csse432BitTorrent/minitorrent/src/main/java/com/minitorrent/TorrentMetadata.java
-/mnt/c/Users/hsinr/class/CSSE432/MiniTorrent/csse432BitTorrent/minitorrent/src/main/java/com/minitorrent/Main.java
+/mnt/c/Users/hsinr/class/CSSE432/csse432BitTorrent/minitorrent/src/main/java/com/minitorrent/TorrentMetadata.java
+/mnt/c/Users/hsinr/class/CSSE432/csse432BitTorrent/minitorrent/src/main/java/com/minitorrent/TorrentMsg.java
+/mnt/c/Users/hsinr/class/CSSE432/csse432BitTorrent/minitorrent/src/main/java/com/minitorrent/bitTClient.java
+/mnt/c/Users/hsinr/class/CSSE432/csse432BitTorrent/minitorrent/src/main/java/com/minitorrent/bencode/EncodingType.java
+/mnt/c/Users/hsinr/class/CSSE432/csse432BitTorrent/minitorrent/src/main/java/com/minitorrent/Main.java
+/mnt/c/Users/hsinr/class/CSSE432/csse432BitTorrent/minitorrent/src/main/java/com/minitorrent/Peer.java
+/mnt/c/Users/hsinr/class/CSSE432/csse432BitTorrent/minitorrent/src/main/java/com/minitorrent/peerReader.java
+/mnt/c/Users/hsinr/class/CSSE432/csse432BitTorrent/minitorrent/src/main/java/com/minitorrent/welcomePeers.java
+/mnt/c/Users/hsinr/class/CSSE432/csse432BitTorrent/minitorrent/src/main/java/com/minitorrent/bencode/MainTorrentParser.java
+/mnt/c/Users/hsinr/class/CSSE432/csse432BitTorrent/minitorrent/src/main/java/com/minitorrent/TorrentMaker.java
+/mnt/c/Users/hsinr/class/CSSE432/csse432BitTorrent/minitorrent/src/main/java/com/minitorrent/bencode/TorrentParser.java
+/mnt/c/Users/hsinr/class/CSSE432/csse432BitTorrent/minitorrent/src/main/java/com/minitorrent/soItDoesntGetDeleted.java

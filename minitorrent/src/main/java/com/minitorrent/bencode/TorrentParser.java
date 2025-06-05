@@ -1,3 +1,5 @@
+package com.minitorrent.bencode;
+
 import com.dampcake.bencode.Type;
 import com.google.gson.Gson;
 import com.dampcake.bencode.Bencode;
